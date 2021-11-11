@@ -301,8 +301,5 @@ I'm hoping that the topic for this week is a review for all of you, but it's goo
 **Task:**
 
 Read both short articles in Week6. Data visualization section of [Calling Bulllshit](https://www.callingbullshit.org/syllabus.html#Visual). Were there any principles mentioned that you hadn't heard of before? What graph stood out for you as "the worst"? Did any of the graphs fool you? Or were able to overcome the bad practices (don't worry if they fool you - plently of them have fooled me, too.)? How does practicing good data visualization principles fit in with data ethics?
-
-
-## Make this document look nicer!
-
-Go to the top and delete the `#` from the options section and knit a final time.
+ 
+<br> I’ve always been weary of people, authors, and institutions cherry-picking facts in order to strengthen their thesis/argument. These articles shed light on the fact that these same individuals often use the shaping and structure of graphics and charts in order to skew their point. I’m not surprised that this is prevalent in larger organizations like the California Budget & Policy Center, but I do wonder perhaps whether this has some scrutiny involved when people resort to data visualization manipulation - similar to those who are penalized for cherry picking data and imparting misinformation. These articles are all the more reason to be cautious and critical of not only data point, but also visualizations, since they all play a role in the way we perceive problems and develop opinions on current issues. 
